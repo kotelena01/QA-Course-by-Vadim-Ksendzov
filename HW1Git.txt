@@ -2,7 +2,7 @@ Group_23 Homework1
 Linux terminal (GitBash) commands
 
 1) Посмотреть где я  
-**pwd**
+pwd
 2) Создать папку  
 mkdir dir_1                                   
 3) Зайти в папку 
